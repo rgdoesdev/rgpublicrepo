@@ -1,0 +1,1280 @@
+{
+		"name": "H3 MITRE Map",
+	"versions": {
+		"attack": "16",
+		"navigator": "5.1.0",
+		"layer": "4.5"
+	},
+	"domain": "enterprise-attack",
+	"description": "H3 MITRE Map",
+	"filters": {
+		"platforms": [
+			"Windows",
+			"Linux",
+			"macOS",
+			"Network",
+			"PRE",
+			"Containers",
+			"IaaS",
+			"SaaS",
+			"Office Suite",
+			"Identity Provider"
+		]
+	},
+	"sorting": 3,
+	"layout": {
+		"layout": "side",
+		"aggregateFunction": "average",
+		"showID": false,
+		"showName": true,
+		"showAggregateScores": false,
+		"countUnscored": false,
+		"expandedSubtechniques": "none"
+	},
+	"hideDisabled": true,
+    "techniques": [
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1591",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "3 modules",
+            "techniqueID": "T1594",
+            "score": 3
+        },
+        {
+            "comment": "25 modules",
+            "techniqueID": "T1592",
+            "score": 25
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1593",
+            "score": 2
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1598",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1597",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "20 modules",
+            "techniqueID": "T1590",
+            "score": 20
+        },
+        {
+            "comment": "76 modules",
+            "techniqueID": "T1595",
+            "score": 76
+        },
+        {
+            "comment": "6 modules",
+            "techniqueID": "T1596",
+            "score": 6
+        },
+        {
+            "comment": "12 modules",
+            "techniqueID": "T1589",
+            "score": 12
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1585",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1608",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1588",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1586",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1587",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "3 modules",
+            "techniqueID": "T1584",
+            "score": 3
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1583",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1189",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1200",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "32 modules",
+            "techniqueID": "T1078",
+            "score": 32
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1091",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1566",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "92 modules",
+            "techniqueID": "T1190",
+            "score": 92
+        },
+        {
+            "comment": "5 modules",
+            "techniqueID": "T1133",
+            "score": 5
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1195",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1199",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1610",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1072",
+            "score": 1
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1053",
+            "score": 2
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1569",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1204",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1129",
+            "score": 1
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1609",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1106",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "comment": "28 modules",
+            "techniqueID": "T1059",
+            "score": 28
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1559",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1047",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1543",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1542",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1547",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1505",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1525",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1137",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1574",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1078",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "8 modules",
+            "techniqueID": "T1098",
+            "score": 8
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1205",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1556",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1037",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1133",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1546",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1197",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1053",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "4 modules",
+            "techniqueID": "T1136",
+            "score": 4
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1176",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1554",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1611",
+            "score": 1
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1134",
+            "score": 2
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1037",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "10 modules",
+            "techniqueID": "T1078",
+            "score": 10
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1068",
+            "score": 2
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1484",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1546",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1053",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1543",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1055",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1547",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1574",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1548",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1574",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1134",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1211",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1620",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1480",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1601",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1014",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1070",
+            "score": 2
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1078",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1497",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1205",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1036",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1562",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1556",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1610",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1202",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1197",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1216",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1207",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1055",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1535",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1006",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1612",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1578",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1127",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1218",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1484",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1140",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1027",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1553",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1542",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1548",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1600",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1221",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1222",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1550",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1220",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1564",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1599",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1112",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "7 modules",
+            "techniqueID": "T1558",
+            "score": 7
+        },
+        {
+            "comment": "22 modules",
+            "techniqueID": "T1212",
+            "score": 22
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1040",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1056",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "5 modules",
+            "techniqueID": "T1187",
+            "score": 5
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1528",
+            "score": 1
+        },
+        {
+            "comment": "14 modules",
+            "techniqueID": "T1552",
+            "score": 14
+        },
+        {
+            "comment": "4 modules",
+            "techniqueID": "T1557",
+            "score": 4
+        },
+        {
+            "comment": "9 modules",
+            "techniqueID": "T1555",
+            "score": 9
+        },
+        {
+            "comment": "35 modules",
+            "techniqueID": "T1110",
+            "score": 35
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1556",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1539",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "19 modules",
+            "techniqueID": "T1003",
+            "score": 19
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1606",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1111",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1497",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "12 modules",
+            "techniqueID": "T1518",
+            "score": 12
+        },
+        {
+            "comment": "7 modules",
+            "techniqueID": "T1613",
+            "score": 7
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1040",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1124",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1012",
+            "score": 1
+        },
+        {
+            "comment": "7 modules",
+            "techniqueID": "T1083",
+            "score": 7
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1016",
+            "score": 2
+        },
+        {
+            "comment": "17 modules",
+            "techniqueID": "T1069",
+            "score": 17
+        },
+        {
+            "comment": "8 modules",
+            "techniqueID": "T1526",
+            "score": 8
+        },
+        {
+            "comment": "4 modules",
+            "techniqueID": "T1007",
+            "score": 4
+        },
+        {
+            "comment": "14 modules",
+            "techniqueID": "T1018",
+            "score": 14
+        },
+        {
+            "comment": "19 modules",
+            "techniqueID": "T1580",
+            "score": 19
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1049",
+            "score": 2
+        },
+        {
+            "comment": "14 modules",
+            "techniqueID": "T1082",
+            "score": 14
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1120",
+            "score": 1
+        },
+        {
+            "comment": "3 modules",
+            "techniqueID": "T1057",
+            "score": 3
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1538",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1482",
+            "score": 1
+        },
+        {
+            "comment": "3 modules",
+            "techniqueID": "T1135",
+            "score": 3
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1217",
+            "score": 1
+        },
+        {
+            "comment": "6 modules",
+            "techniqueID": "T1033",
+            "score": 6
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1615",
+            "score": 2
+        },
+        {
+            "comment": "22 modules",
+            "techniqueID": "T1087",
+            "score": 22
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1201",
+            "score": 1
+        },
+        {
+            "comment": "70 modules",
+            "techniqueID": "T1046",
+            "score": 70
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1614",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1010",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "4 modules",
+            "techniqueID": "T1619",
+            "score": 4
+        },
+        {
+            "comment": "23 modules",
+            "techniqueID": "T1550",
+            "score": 23
+        },
+        {
+            "comment": "71 modules",
+            "techniqueID": "T1210",
+            "score": 71
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1570",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1091",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1080",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1072",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1534",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1563",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "28 modules",
+            "techniqueID": "T1021",
+            "score": 28
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1560",
+            "score": 1
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1530",
+            "score": 2
+        },
+        {
+            "comment": "6 modules",
+            "techniqueID": "T1039",
+            "score": 6
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1123",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1113",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1115",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1125",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1114",
+            "score": 1
+        },
+        {
+            "comment": "6 modules",
+            "techniqueID": "T1119",
+            "score": 6
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1185",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1074",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "8 modules",
+            "techniqueID": "T1213",
+            "score": 8
+        },
+        {
+            "comment": "10 modules",
+            "techniqueID": "T1005",
+            "score": 10
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1056",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "2 modules",
+            "techniqueID": "T1557",
+            "score": 2
+        },
+        {
+            "comment": "3 modules",
+            "techniqueID": "T1602",
+            "score": 3
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1025",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1572",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "3 modules",
+            "techniqueID": "T1573",
+            "score": 3
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1104",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1092",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1001",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1205",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1568",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1090",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1008",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "3 modules",
+            "techniqueID": "T1571",
+            "score": 3
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1102",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "7 modules",
+            "techniqueID": "T1071",
+            "score": 7
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1132",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1105",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1219",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "6 modules",
+            "techniqueID": "T1095",
+            "score": 6
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1011",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1567",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1030",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1052",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1048",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1029",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1537",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1041",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1020",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1490",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1531",
+            "score": 1
+        },
+        {
+            "comment": "1 module",
+            "techniqueID": "T1491",
+            "score": 1
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1486",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "10 modules",
+            "techniqueID": "T1565",
+            "score": 10
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1499",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1498",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1561",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1495",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1529",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1489",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1485",
+            "score": 0,
+            "enabled": false
+        },
+        {
+            "comment": "0 rules",
+            "techniqueID": "T1496",
+            "score": 0,
+            "enabled": false
+        }
+    ],
+    	"gradient": {
+		"colors": [
+			"#94a6c3ff",
+			"#d21e49ff"
+		],
+		"minValue": 0,
+		"maxValue": 20
+	},
+	"legendItems": [],
+	"metadata": [],
+	"links": [],
+	"showTacticRowBackground": false,
+	"tacticRowBackground": "#dddddd",
+	"selectTechniquesAcrossTactics": true,
+	"selectSubtechniquesWithParent": false,
+	"selectVisibleTechniques": false
+
+}
