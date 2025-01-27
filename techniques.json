@@ -4,8 +4,8 @@
     "name": "H3 MITRE Map", 
     "gradient": {
         "colors": [
-            "#d8edd1", 
-            "#6dbb51"
+            "#94a6c3", 
+            "#d21e49"
         ], 
         "maxValue": 20, 
         "minValue": 0
